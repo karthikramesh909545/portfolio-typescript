@@ -81,7 +81,7 @@ const Home = ({ setSelectedPage }: Props) => {
                     md:ml-40 md:mt-16 md:justify-items-end"
         >
           <img
-            className="w-[500px]"
+            className="h-auto w-[450px]"
             alt="home-pageGraphic"
             src={HomePageGraphic}
           />
